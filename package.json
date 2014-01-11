@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Hug",
+  "license": "BSD-2-Clause"
+}

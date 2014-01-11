@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"username": "username",
+	"password": "password",
+	"host": "www.blog.me",
+	"path": "xmlrpc.php",
+	"port": 80
+}

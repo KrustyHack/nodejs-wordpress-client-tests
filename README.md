@@ -1,5 +1,5 @@
-[nodejs][nodejs-wordpress-client](http://nodejs.org/) - NodeJs Worpress Client
-==================================================
+NodeJs Worpress Client
+======================
 
 INSTALLATION
 ------------

@@ -1,6 +1,8 @@
 NodeJs Worpress Client
 ======================
 
+This git is just for test purpose. It is not maintained.
+
 INSTALLATION
 ------------
 
